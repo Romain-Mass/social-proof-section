@@ -64,7 +64,7 @@ p {
 	color: white;
 	font-weight: 500;
 	font-size: 17px;
-	line-height: 22px;
+	line-height: 5px;
 }
 h1 {
 	font-size: 56px;
@@ -99,13 +99,14 @@ h4 {
 .stars3 {
 	margin-left: 45px;
 }
+.para {
+    margin-top: 40px;
+}
 .text {
 	color: #927b91;
 	font-size: 19px;
 	font-weight: 500;
     line-height: 2px;
-    letter-spacing: -0.63px;
-    margin-top: 40px;
 }
 .haut {
 	display: flex;
